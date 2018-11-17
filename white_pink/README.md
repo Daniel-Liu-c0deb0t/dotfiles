@@ -28,3 +28,4 @@ My white and light pink setup. Note that I did not include keybindings and XFCE/
 - Papirus icons are used
 - The GTK theme is Qogir light, but modified to have a light pink highlight
 - The OS is Xubuntu
+- I picked Ram because she matches the color scheme for W3m in Neofetch
