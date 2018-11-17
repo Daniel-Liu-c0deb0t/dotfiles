@@ -1,2 +1,2 @@
 # dotfiles
-Linux dot files.
+Linux dot files for my setups!

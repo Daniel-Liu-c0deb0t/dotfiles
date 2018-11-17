@@ -1,0 +1,1 @@
+bash -c 'source /home/c0deb0t/.bashrc && rofi -show run -modi run,"calc:qalc +u8 -t",ssh -dpi 280 -font "Fira Code Regular 10" -theme white_pink_rofi -kb-mode-next Ctrl-Alt-l -kb-remove-word-back Super-H -kb-mode-previous Ctrl-Alt-h -kb-row-up Ctrl-Alt-k -kb-row-down Ctrl-Alt-j'

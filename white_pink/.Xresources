@@ -1,0 +1,34 @@
+URxvt*loginShell: true
+
+URxvt*font: xft:Fura Code NF:size=11
+
+URxvt*scrollBar: false
+URxvt*scrollTtyKeypress: true
+URxvt*scrollTtyOutput: false
+URxvt*scrollWithBuffer: false
+URxvt*saveLines: 8192
+
+URxvt*geometry: 55x20
+
+URxvt*depth: 32
+URxvt*termName: rxvt-unicode
+URxvt*iso14755: false
+
+*foreground: #333333
+*background: #FFFFFF
+*color0: #2E3440
+*color1: #e5aeca
+*color2: #BF616A
+*color3: #5E81AC
+*color4: #EBCB8B
+*color5: #A3BE8C
+*color6: #D08770
+*color7: #E5E9F0
+*color8: #4C566A
+*color9: #e5aeca
+*color10: #BF616A
+*color11: #5E81AC
+*color12: #EBCB8B
+*color13: #A3BE8C
+*color14: #D08770
+*color15: #8FBCBB
