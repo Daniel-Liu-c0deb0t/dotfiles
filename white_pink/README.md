@@ -10,8 +10,6 @@ My white and light pink setup. Note that I did not include keybindings and XFCE/
 - Ctrl-Alt-w launch Firefox
 - Ctrl-Alt-f launch Ranger in Urxvt
 - Ctrl-Alt-r launch Rofi
-
-
 - Alt-F1 resize window
 - Alt-F2 minimize window
 - Alt-F3 maximize window
