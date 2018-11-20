@@ -29,3 +29,4 @@ nnoremap <leader><space> :nohlsearch<CR>
 nnoremap o o<Esc>
 nnoremap O O<Esc>
 inoremap <C-p> <C-r>0
+nnoremap ; :
